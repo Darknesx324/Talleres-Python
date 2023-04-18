@@ -1,0 +1,5 @@
+Programacion en Python, 45000, Joyanes Aguilar, 2017
+Algoritmia, 500000, Jorge Villalobos, 2010
+Matematica Avanzada, 60000, Luis Guerrero, 2018
+Algebra lineal, 55000, Milton Penaogs, 2015
+El arte de amar, 30000, Erik Fromm
